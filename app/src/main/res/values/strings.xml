@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Companion device scanner</string>
+    <string name="scan_ble_devices">Scan BLE devices</string>
+</resources>
